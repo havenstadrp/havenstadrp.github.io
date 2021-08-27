@@ -3,6 +3,7 @@
 - Getting started
   - [Home](/)
   - [Guide](guide.md)
+  - [Changelog](server/changelog.md)
 - Jobs
   -  [Leverancier](jobs/leverancier.md)
   -  [Taxi](jobs/taxi.md)
