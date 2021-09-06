@@ -11,6 +11,7 @@
   -  [Journalist](jobs/journalist.md)
   -  [Vuilniskar](jobs/vuilniskar.md)
   -  [Hotdogverkoper](jobs/hotdog.md)
+  -  [Vissen](jobs/vissen.md)
 - Whitelisted Jobs
   - [Politie](wj/politie.md)
   - [Ambulance](wj/ambulance.md)
